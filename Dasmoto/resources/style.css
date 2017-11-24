@@ -1,0 +1,45 @@
+/* Mike Confrey 11-24-2017 */
+
+/* set Helvetica for entire page */
+body {
+  font-family: Helvetica;
+}
+
+.header {
+  background-image: url("https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-2/pattern.jpeg");
+}
+
+.header h1 {
+  text-align: center;
+  font-size: 100px;
+  font-weight: bold;
+  color: khaki;
+}
+
+/* set common items for att h2 headings */
+h2 {
+  font-size: 32px;
+  font-weight: bold;
+  color: white;
+}
+
+.brushes h2 {
+  background-color: mediumspringgreen;
+}
+
+.frames h2 {
+  background-color: lightcoral;
+}
+
+.paint h2 {
+  background-color: skyblue;
+}
+
+h3 {
+  font-size: 19px;
+}
+
+p span {
+  font-weight: bold;
+  color: blue
+}
